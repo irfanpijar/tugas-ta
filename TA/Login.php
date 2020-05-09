@@ -43,11 +43,30 @@
 <body>
 	<div class="utama">
 	<p><b>Login</b></p>
-<form action="proses.php" method="POST">
-	<input type="text" name="Email" placeholder="Email" style="padding: 8px 10px"class="per">
-	<input type="Password" name="Password" placeholder="Password" style="padding: 8px 10px; margin-top: 10px;" class="dua">
+<form action="login-system.php" method="post">
+	<input type="text" name="email" placeholder="email" style="padding: 8px 10px"class="per">
+	<input type="Password" name="password" placeholder="password" style="padding: 8px 10px; margin-top: 10px;" class="dua">
 	<input type="submit" name="login" value="Login" style="padding: 8px 10px; margin-top: 10px" class="ok">
 </form>
+<p>Dont Have Account ? <a href="signup.php">Sign Up Now</a></p>
+<?php 
+// if(isset($_POST['login'])){
+// 	$email = $_POST['email'];
+// 	$password = $_POST['password'];
+// 	$data_user = mysqli_query($conn, "SELECT * FROM login WHERE Email = '$email' AND Password = '$password'");
+// 	$r = mysqli_fetch_array($data_user);
+// 	$Email =$r['Email'];
+// 	$Password =$r['Password'];
+// 	$level = $r['level'];
+// 	if($email == $Email && $password == $Password){
+// 		$_SESSION['level'] = $level;
+// 		// header('location: ');
+// 		echo "<script>alert('berhasil')</script>";
+// 	}else{
+// 		echo "<script>alert('Sorry Email and Password Faild')</script>";
+// 	}
+// }
+ ?>
 </div>
 	
 </body>
