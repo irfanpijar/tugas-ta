@@ -194,7 +194,7 @@
           <div class="excerpttxt">
             <h6 class="heading font-x1">Perusahaan Apple</h6>
             <p>-------------------------------------&hellip;</p>
-            <footer><a class="btn" href="apple.html">Read More &raquo;</a></footer>
+            <footer><a class="btn" href="ap.html">Read More &raquo;</a></footer>
           </div>
         </article>
       </li>
@@ -203,7 +203,7 @@
           <div class="excerpttxt">
             <h6 class="heading font-x1">Perusahaan Google</h6>
             <p>-------------------------------------&hellip;</p>
-            <footer><a class="btn" href="google.html">Read More &raquo;</a></footer>
+            <footer><a class="btn" href="goggle.html">Read More &raquo;</a></footer>
           </div>
         </article>
       </li>
@@ -212,7 +212,7 @@
           <div class="excerpttxt">
             <h6 class="heading font-x1">Perusahaan Facebook</h6>
             <p>-------------------------------------&hellip;</p>
-            <footer><a class="btn" href="#">Read More &raquo;</a></footer>
+            <footer><a class="btn" href="fb">Read More &raquo;</a></footer>
           </div>
         </article>
       </li>
@@ -221,7 +221,7 @@
           <div class="excerpttxt">
             <h6 class="heading font-x1">Kantor BCA</h6>
             <p>-------------------------------------&hellip;</p>
-            <footer><a class="btn" href="#">Read More &raquo;</a></footer>
+            <footer><a class="btn" href="Bank.html">Read More &raquo;</a></footer>
           </div>
         </article>
       </li>
