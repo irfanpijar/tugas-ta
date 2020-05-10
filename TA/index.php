@@ -54,8 +54,8 @@
             <p>Tempat untuk mencari perusahaan sesuai minatmu !</p>
             <footer>
               <ul class="nospace inline pushright">
-                <li><a class="btn" href="#">Login</a></li>
-                <li><a class="btn inverse" href="#">Sign up</a></li>
+                <li><a class="btn" href="Login.php">Login</a></li>
+                <li><a class="btn inverse" href="signup.php">Sign up</a></li>
               </ul>
             </footer>
           </article>
@@ -66,8 +66,8 @@
             <p>Terdapat banyak pilihan perusahaan yang sesuai minatmu !</p>
             <footer>
               <ul class="nospace inline pushright">
-                <li><a class="btn" href="#">Login</a></li>
-                <li><a class="btn inverse" href="#">Sign up</a></li>
+                <li><a class="btn" href="Login.php">Login</a></li>
+                <li><a class="btn inverse" href="signup.php">Sign up</a></li>
               </ul>
             </footer>
           </article>
@@ -78,8 +78,8 @@
             <p>Working memiliki jenis perusahaan yang banyak sesuai minatmu !</p>
             <footer>
               <ul class="nospace inline pushright">
-                <li><a class="btn" href="#">Login</a></li>
-                <li><a class="btn inverse" href="#">Sign Up</a></li>
+                <li><a class="btn" href="Login.php">Login</a></li>
+                <li><a class="btn inverse" href="signup.php">Sign Up</a></li>
               </ul>
             </footer>
           </article>
