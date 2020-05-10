@@ -12,7 +12,7 @@ if($row['Email'] == $email && $row['Password'] == $password){
     if($redirect_to != '')
         header('Location: '.$redirect_to);
     else
-        header('Location: ./Working/Home.php');
+        header('Location: index.php');
 }
 else{
     header('Location: login.php');

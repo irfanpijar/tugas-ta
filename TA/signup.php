@@ -14,8 +14,9 @@
 			<input type="text" placeholder="Username" class="ok" name="username" required><br>
 			<input type="text" placeholder="Email" class="ok3" name ="email" required><br>
 			<input type="Password" placeholder="Password" class="ok4" name="password" required><br>
-			<input type="submit" value="Sign in" name="submit" class="ok11">
+			<input type="submit" value="Sign in" name="submit" class="ok11" style="color: black;cursor: pointer;">
 			</form>
+			<p><a href="login.php">Login</a></p>
 		</div>
 	</div>
 </body>

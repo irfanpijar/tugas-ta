@@ -39,8 +39,8 @@
               <li><a href="#">-</a></li>
             </ul>
           </li>
-          <li><a href="">Perusahaan</a></li>
-          <li><a href="">Karyawan</a></li>
+          <li><a href="pages/gallery.html">Perusahaan</a></li>
+          <li><a href="karyawan.html">Karyawan</a></li>
         </ul>
       </nav>
     </header>

@@ -7,7 +7,7 @@ if(isset($_POST['submit'])){
 	mysqli_query($conn,"INSERT INTO login VALUES ('$username','$email','$password')");
 	$isi = mysqli_affected_rows($conn);
 	if($isi > 0){
-            header('Location: ./Working/Home.php');
+            header('Location:index.php');
             }
             else{
                 header('Location: ./login.php');
