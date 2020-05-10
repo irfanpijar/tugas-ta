@@ -20,7 +20,7 @@
           <li><a class="drop" href="#">Pencarian</a>
             <ul>
               <li><a href="pages/gallery.html">Perusahaan</a></li>
-              <li><a href="pages/full-widths.html">-</a></li>
+              <li><a href="gps.html">Rekomendasi Gps</a></li>
               <li><a href="sidebar-lefts.html">-</a></li>
               <li><a href="sidebar-rights.html">-</a></li>
               <li><a href="pages/basic-grids.html">-</a></li>
@@ -193,8 +193,8 @@
         <article class="excerpt"><a href="#"><img src="images/demo/D.jpg" alt=""></a>
           <div class="excerpttxt">
             <h6 class="heading font-x1">Perusahaan Apple</h6>
-            <p>qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq&hellip;</p>
-            <footer><a class="btn" href="#">Read More &raquo;</a></footer>
+            <p>-------------------------------------&hellip;</p>
+            <footer><a class="btn" href="apple.html">Read More &raquo;</a></footer>
           </div>
         </article>
       </li>
@@ -202,8 +202,8 @@
         <article class="excerpt"><a href="#"><img src="images/demo/E.jpg" alt=""></a>
           <div class="excerpttxt">
             <h6 class="heading font-x1">Perusahaan Google</h6>
-            <p>qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq&hellip;</p>
-            <footer><a class="btn" href="#">Read More &raquo;</a></footer>
+            <p>-------------------------------------&hellip;</p>
+            <footer><a class="btn" href="google.html">Read More &raquo;</a></footer>
           </div>
         </article>
       </li>
@@ -211,7 +211,7 @@
         <article class="excerpt"><a href="#"><img src="images/demo/F.jpg" style="height: 149px;width: 220px;"alt=""></a>
           <div class="excerpttxt">
             <h6 class="heading font-x1">Perusahaan Facebook</h6>
-            <p>qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq&hellip;</p>
+            <p>-------------------------------------&hellip;</p>
             <footer><a class="btn" href="#">Read More &raquo;</a></footer>
           </div>
         </article>
@@ -220,7 +220,7 @@
         <article class="excerpt"><a href="#"><img src="images/demo/G.jpg" style="height: 149px;" alt=""></a>
           <div class="excerpttxt">
             <h6 class="heading font-x1">Kantor BCA</h6>
-            <p>qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq&hellip;</p>
+            <p>-------------------------------------&hellip;</p>
             <footer><a class="btn" href="#">Read More &raquo;</a></footer>
           </div>
         </article>
